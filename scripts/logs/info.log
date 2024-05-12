@@ -1,0 +1,203 @@
+Info: CapabilityPattern:Asses Bussines Status: 468 mini seconds publishing element
+Info: CapabilityPattern:Asses Bussines Status: 141 mini seconds publishing process specific layout data
+Info: Task:assess_target_organization: 110 mini seconds publishing element
+Info: TaskDescriptor:assess_target_organization: 47 mini seconds publishing element
+Info: Role:business_process_analyst: 203 mini seconds publishing element
+Info: RoleDescriptor:business_process_analyst: 15 mini seconds publishing element
+Info: Artifact:target_organization_assessment: 110 mini seconds publishing element
+Info: WorkProductDescriptor:target_organization_assessment: 15 mini seconds publishing element
+Info: Task:capture_a_common_business_vocabulary: 47 mini seconds publishing element
+Info: TaskDescriptor:capture_a_common_business_vocabulary: 16 mini seconds publishing element
+Info: Artifact:busines_vision: 93 mini seconds publishing element
+Info: WorkProductDescriptor:busines_vision: 32 mini seconds publishing element
+Info: Artifact:stakeholder_requests: 93 mini seconds publishing element
+Info: WorkProductDescriptor:stakeholder_requests: 16 mini seconds publishing element
+Info: Artifact:vision: 94 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 0 mini seconds publishing element
+Info: Artifact:business_glossary: 109 mini seconds publishing element
+Info: WorkProductDescriptor:business_glossary: 16 mini seconds publishing element
+Info: Task:maintain_business_rules: 62 mini seconds publishing element
+Info: TaskDescriptor:maintain_business_rules: 16 mini seconds publishing element
+Info: Artifact:business_architecture_document: 94 mini seconds publishing element
+Info: WorkProductDescriptor:business_architecture_document: 0 mini seconds publishing element
+Info: Artifact:business_object_model: 125 mini seconds publishing element
+Info: WorkProductDescriptor:business_object_model: 0 mini seconds publishing element
+Info: Artifact:business_use-case_model: 94 mini seconds publishing element
+Info: WorkProductDescriptor:business_use-case_model: 16 mini seconds publishing element
+Info: Artifact:supplementary_business_specification: 93 mini seconds publishing element
+Info: WorkProductDescriptor:supplementary_business_specification: 16 mini seconds publishing element
+Info: Artifact:business_rules: 78 mini seconds publishing element
+Info: WorkProductDescriptor:business_rules: 16 mini seconds publishing element
+Info: Task:set_and_ajust_goals: 94 mini seconds publishing element
+Info: TaskDescriptor:set_and_ajust_goals: 31 mini seconds publishing element
+Info: CapabilityPattern:Identify Business Processes: 344 mini seconds publishing element
+Info: CapabilityPattern:Identify Business Processes: 203 mini seconds publishing process specific layout data
+Info: TaskDescriptor:maintain_business_rules: 32 mini seconds publishing element
+Info: RoleDescriptor:business_process_analyst: 15 mini seconds publishing element
+Info: WorkProductDescriptor:busines_vision: 16 mini seconds publishing element
+Info: WorkProductDescriptor:business_architecture_document: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_glossary: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_object_model: 15 mini seconds publishing element
+Info: WorkProductDescriptor:business_use-case_model: 16 mini seconds publishing element
+Info: WorkProductDescriptor:supplementary_business_specification: 15 mini seconds publishing element
+Info: WorkProductDescriptor:business_rules: 16 mini seconds publishing element
+Info: TaskDescriptor:set_and_ajust_goals: 16 mini seconds publishing element
+Info: WorkProductDescriptor:target_organization_assessment: 0 mini seconds publishing element
+Info: Task:define_the_business_architecture: 78 mini seconds publishing element
+Info: TaskDescriptor:define_the_business_architecture: 47 mini seconds publishing element
+Info: TaskDescriptor:capture_a_common_business_vocabulary: 16 mini seconds publishing element
+Info: WorkProductDescriptor:stakeholder_requests: 0 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 0 mini seconds publishing element
+Info: Task:find_business_actors_and_use_cases: 78 mini seconds publishing element
+Info: TaskDescriptor:find_business_actors_and_use_cases: 31 mini seconds publishing element
+Info: Artifact:business_modeling_guidelines: 109 mini seconds publishing element
+Info: WorkProductDescriptor:business_modeling_guidelines: 16 mini seconds publishing element
+Info: Artifact:glossary: 78 mini seconds publishing element
+Info: WorkProductDescriptor:glossary: 16 mini seconds publishing element
+Info: Artifact:business_actor: 78 mini seconds publishing element
+Info: WorkProductDescriptor:business_actor: 15 mini seconds publishing element
+Info: Artifact:business_use_case: 94 mini seconds publishing element
+Info: WorkProductDescriptor:business_use_case: 16 mini seconds publishing element
+Info: CapabilityPattern:Describe Current Business: 344 mini seconds publishing element
+Info: CapabilityPattern:Describe Current Business: 156 mini seconds publishing process specific layout data
+Info: TaskDescriptor:assess_target_organization: 31 mini seconds publishing element
+Info: RoleDescriptor:business_process_analyst: 16 mini seconds publishing element
+Info: WorkProductDescriptor:target_organization_assessment: 15 mini seconds publishing element
+Info: TaskDescriptor:find_business_actors_and_use_cases: 32 mini seconds publishing element
+Info: WorkProductDescriptor:business_modeling_guidelines: 0 mini seconds publishing element
+Info: WorkProductDescriptor:glossary: 15 mini seconds publishing element
+Info: WorkProductDescriptor:stakeholder_requests: 16 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_actor: 16 mini seconds publishing element
+Info: WorkProductDescriptor:business_use_case: 15 mini seconds publishing element
+Info: WorkProductDescriptor:business_use-case_model: 0 mini seconds publishing element
+Info: WorkProductDescriptor:supplementary_business_specification: 15 mini seconds publishing element
+Info: TaskDescriptor:set_and_ajust_goals: 32 mini seconds publishing element
+Info: WorkProductDescriptor:busines_vision: 0 mini seconds publishing element
+Info: Task:find_business_workers_and_entities: 63 mini seconds publishing element
+Info: TaskDescriptor:find_business_workers_and_entities: 31 mini seconds publishing element
+Info: Role:business_designer: 141 mini seconds publishing element
+Info: RoleDescriptor:business_designer: 15 mini seconds publishing element
+Info: WorkProductDescriptor:business_glossary: 0 mini seconds publishing element
+Info: Artifact:business_entity: 94 mini seconds publishing element
+Info: WorkProductDescriptor:business_entity: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_object_model: 15 mini seconds publishing element
+Info: Artifact:business_use-case_realization: 94 mini seconds publishing element
+Info: WorkProductDescriptor:business_use-case_realization: 0 mini seconds publishing element
+Info: Artifact:business_worker: 94 mini seconds publishing element
+Info: WorkProductDescriptor:business_worker: 15 mini seconds publishing element
+Info: CapabilityPattern:Refine Business Process Definitions: 297 mini seconds publishing element
+Info: CapabilityPattern:Refine Business Process Definitions: 125 mini seconds publishing process specific layout data
+Info: Task:structure_the_business_use-case_model: 47 mini seconds publishing element
+Info: TaskDescriptor:structure_the_business_use-case_model: 31 mini seconds publishing element
+Info: RoleDescriptor:business_process_analyst: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_glossary: 16 mini seconds publishing element
+Info: WorkProductDescriptor:business_modeling_guidelines: 15 mini seconds publishing element
+Info: WorkProductDescriptor:business_use_case: 16 mini seconds publishing element
+Info: WorkProductDescriptor:business_use-case_model: 16 mini seconds publishing element
+Info: WorkProductDescriptor:supplementary_business_specification: 15 mini seconds publishing element
+Info: Task:review_the_business_use-case_model: 16 mini seconds publishing element
+Info: TaskDescriptor:review_the_business_use-case_model: 0 mini seconds publishing element
+Info: Role:business-model_reviewer: 125 mini seconds publishing element
+Info: RoleDescriptor:business-model_reviewer: 16 mini seconds publishing element
+Info: Artifact:review_record: 78 mini seconds publishing element
+Info: WorkProductDescriptor:review_record: 0 mini seconds publishing element
+Info: Task:detail_a_business_use_case: 47 mini seconds publishing element
+Info: TaskDescriptor:detail_a_business_use_case: 15 mini seconds publishing element
+Info: RoleDescriptor:business_designer: 16 mini seconds publishing element
+Info: WorkProductDescriptor:business_actor: 0 mini seconds publishing element
+Info: WorkProductDescriptor:stakeholder_requests: 16 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 0 mini seconds publishing element
+Info: CapabilityPattern:Explore Process Automation: 234 mini seconds publishing element
+Info: CapabilityPattern:Explore Process Automation: 109 mini seconds publishing process specific layout data
+Info: TaskDescriptor:set_and_ajust_goals: 32 mini seconds publishing element
+Info: RoleDescriptor:business_process_analyst: 0 mini seconds publishing element
+Info: WorkProductDescriptor:target_organization_assessment: 15 mini seconds publishing element
+Info: WorkProductDescriptor:busines_vision: 0 mini seconds publishing element
+Info: Task:define_automation_requirements: 47 mini seconds publishing element
+Info: TaskDescriptor:define_automation_requirements: 16 mini seconds publishing element
+Info: RoleDescriptor:business_designer: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_architecture_document: 15 mini seconds publishing element
+Info: WorkProductDescriptor:business_glossary: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_object_model: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_use-case_model: 16 mini seconds publishing element
+Info: WorkProductDescriptor:supplementary_business_specification: 15 mini seconds publishing element
+Info: Artifact:use-case_model: 79 mini seconds publishing element
+Info: WorkProductDescriptor:use-case_model: 0 mini seconds publishing element
+Info: Artifact:analysis_model: 78 mini seconds publishing element
+Info: WorkProductDescriptor:analysis_model: 15 mini seconds publishing element
+Info: Artifact:supplementary_specifications: 63 mini seconds publishing element
+Info: WorkProductDescriptor:supplementary_specifications: 15 mini seconds publishing element
+Info: CapabilityPattern:Design Business Process Realizations: 250 mini seconds publishing element
+Info: CapabilityPattern:Design Business Process Realizations: 141 mini seconds publishing process specific layout data
+Info: TaskDescriptor:find_business_workers_and_entities: 31 mini seconds publishing element
+Info: RoleDescriptor:business_designer: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_glossary: 16 mini seconds publishing element
+Info: WorkProductDescriptor:business_modeling_guidelines: 15 mini seconds publishing element
+Info: WorkProductDescriptor:business_use-case_model: 0 mini seconds publishing element
+Info: WorkProductDescriptor:supplementary_business_specification: 16 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 16 mini seconds publishing element
+Info: WorkProductDescriptor:business_entity: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_object_model: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_use-case_realization: 16 mini seconds publishing element
+Info: WorkProductDescriptor:business_worker: 16 mini seconds publishing element
+Info: TaskDescriptor:capture_a_common_business_vocabulary: 15 mini seconds publishing element
+Info: RoleDescriptor:business_process_analyst: 0 mini seconds publishing element
+Info: WorkProductDescriptor:busines_vision: 16 mini seconds publishing element
+Info: WorkProductDescriptor:stakeholder_requests: 15 mini seconds publishing element
+Info: TaskDescriptor:maintain_business_rules: 16 mini seconds publishing element
+Info: WorkProductDescriptor:business_architecture_document: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_rules: 16 mini seconds publishing element
+Info: TaskDescriptor:define_the_business_architecture: 31 mini seconds publishing element
+Info: CapabilityPattern:Refine Roles and Responsibilities: 219 mini seconds publishing element
+Info: CapabilityPattern:Refine Roles and Responsibilities: 109 mini seconds publishing process specific layout data
+Info: Task:detail_a_business_worker: 63 mini seconds publishing element
+Info: TaskDescriptor:detail_a_business_worker: 15 mini seconds publishing element
+Info: RoleDescriptor:business_designer: 16 mini seconds publishing element
+Info: WorkProductDescriptor:business_modeling_guidelines: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_object_model: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_use_case: 16 mini seconds publishing element
+Info: WorkProductDescriptor:business_use-case_realization: 16 mini seconds publishing element
+Info: WorkProductDescriptor:supplementary_business_specification: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_worker: 15 mini seconds publishing element
+Info: Artifact:organization_unit: 63 mini seconds publishing element
+Info: WorkProductDescriptor:organization_unit: 15 mini seconds publishing element
+Info: Task:detail_a_business_entity: 32 mini seconds publishing element
+Info: TaskDescriptor:detail_a_business_entity: 31 mini seconds publishing element
+Info: WorkProductDescriptor:business_entity: 0 mini seconds publishing element
+Info: Task:review_the_business_object_model: 31 mini seconds publishing element
+Info: TaskDescriptor:review_the_business_object_model: 16 mini seconds publishing element
+Info: RoleDescriptor:business-model_reviewer: 0 mini seconds publishing element
+Info: WorkProductDescriptor:business_glossary: 15 mini seconds publishing element
+Info: WorkProductDescriptor:review_record: 0 mini seconds publishing element
+Info: DeliveryProcess:Process: 454 mini seconds publishing element
+Info: DeliveryProcess:Process: 1015 mini seconds publishing process specific layout data
+Info: CapabilityPattern:Asses Bussines Status: 235 mini seconds publishing element
+Info: CapabilityPattern:Identify Business Processes: 297 mini seconds publishing element
+Info: CapabilityPattern:Describe Current Business: 281 mini seconds publishing element
+Info: CapabilityPattern:Refine Business Process Definitions: 234 mini seconds publishing element
+Info: CapabilityPattern:Explore Process Automation: 203 mini seconds publishing element
+Info: CapabilityPattern:Design Business Process Realizations: 250 mini seconds publishing element
+Info: CapabilityPattern:Refine Roles and Responsibilities: 235 mini seconds publishing element
+Info: Template:html: 93 mini seconds publishing element
+Info: Template:others: 79 mini seconds publishing element
+Info: Template:html: 78 mini seconds publishing element
+Info: Template:others: 78 mini seconds publishing element
+Info: Report:business_object_model_survey: 62 mini seconds publishing element
+Info: Report:business_use-case_model_survey: 63 mini seconds publishing element
+Info: Report:business_actor_report_-_: 62 mini seconds publishing element
+Info: Report:business_entity_business_entity_name: 63 mini seconds publishing element
+Info: Template:html: 78 mini seconds publishing element
+Info: Template:others: 78 mini seconds publishing element
+Info: Report:business_worker_business-worker_name: 47 mini seconds publishing element
+Info: Report:use-case_model_survey: 78 mini seconds publishing element
+Info: Example:analysis_model_from_the_course_registration_system: 63 mini seconds publishing element
+Info: Template:html: 78 mini seconds publishing element
+Info: Template:others: 62 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 31 mini seconds publishing element
+Info: CustomCategory:Tasks: 16 mini seconds publishing element
+Info: CustomCategory:Roles: 16 mini seconds publishing element
+Info: CustomCategory:Work Products: 15 mini seconds publishing element
+Info: CustomCategory:Guidance: 16 mini seconds publishing element
+Info: CustomCategory:Processes: 16 mini seconds publishing element
+Info: : Publishing time: 0 minutes 16 seconds
